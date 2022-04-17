@@ -6,7 +6,7 @@
 - :computer: Se utilizar html, css, bootstrap, javascript,  en pleno aprendizaje de **angular js**.
 - :notebook: Me gusta mucho **aprender y leer** diariamente.
 
-Tuve un gran cambio en mi mentalidad gracias a [James Scholz](https://www.youtube.com/c/JamesScholz), un chico que estudio 12 horas diarias durante mas de un año, el primer video que vi de el se llama ["How I studied for 12 hours a day for over a year"](https://youtu.be/kICh_d6tHQk) y me quede fascinado con el concepto de [growth mindset](https://www.youtube.com/watch?v=pN34FNbOKXc) o mentalidad de crecimiento, me sirvio desde el momento que lo vi para todo, entender que no tengo techo alguno fue hermoso.
+Tuve un gran cambio en mi mentalidad gracias a [James Scholz](https://www.youtube.com/c/JamesScholz), un chico que estudió 12 horas diarias durante mas de un año, el primer video que vi de el se llama ["How I studied for 12 hours a day for over a year"](https://youtu.be/kICh_d6tHQk) y me quedé fascinado con el concepto de [growth mindset](https://www.youtube.com/watch?v=pN34FNbOKXc) o mentalidad de crecimiento, me sirvió desde el momento que lo vi para todo, entender que no tengo techo alguno fue hermoso.
 
 ## Contactos
 
