@@ -1,4 +1,4 @@
-# Hola! <img src="https://i.imgur.com/1CssljC.gifv" height="40" />
+# Hola! <img src="https://i.imgur.com/1CssljC.gif" height="40" />
 
 ## Sobre mi
 - :mortar_board: Actualmente estoy estudiando Ingenieria en Sistemas en la UTN de Villa Maria.
