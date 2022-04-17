@@ -1,7 +1,7 @@
 # Hola! <img src="https://giphy.com/gifs/cat-kitten-computer-3oKIPnAiaMCws8nOsE" height="40" />
 
-## **********Sobre mi
+## Sobre mi
 - :mortar_board: Actualmente estoy estudiando Ingenieria en Sistemas en la UTN de Villa Maria.
 - :hammer: Estoy buscando trabajar en el ambito del desarrollo web.
 - :computer: Se utilizar html, css, javascript, en pleno aprendizaje de angular js.
--* :notebook: Me gusta mucho aprender y leer diariamente.
+- :notebook: Me gusta mucho aprender y leer diariamente.
