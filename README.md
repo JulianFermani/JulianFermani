@@ -40,7 +40,7 @@
 
 ## Contactos
 
-![](https://dcbadge.vercel.app/api/shield/651543444266942474?style=flat)
+![](https://dcbadge.limes.pink/api/shield/651543444266942474?style=flat)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-jfermani-blue?logo=telegram&logoColor=white)](https://t.me/jfermani)
 [![Email Badge](https://img.shields.io/badge/Email-julianfermani45%40gmail.com-red?logo=gmail&logoColor=white)](mailto:julianfermani45@gmail.com)
 
